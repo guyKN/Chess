@@ -1,0 +1,3 @@
+C:/Users/guykn/CLionProjects/Chess4/cmake-build-debug/CMakeFiles/Chess4.dir
+C:/Users/guykn/CLionProjects/Chess4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guykn/CLionProjects/Chess4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
